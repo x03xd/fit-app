@@ -41,4 +41,5 @@ Aplikacja używa Docker Compose do orkiestracji trzech usług:
 
 ### Instalacja
    - git clone https://github.com/x03xd/fit-app.git
+   - cd fit-app
    - docker-compose up
